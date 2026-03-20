@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Voroshnin.Tests/Voroshnin.Tests.csproj" Id="71594bfe-2c92-4a5e-8862-a58face1724f" />
+  <Project Path="Voroshnin.WPF/Voroshnin.WPF.csproj" Id="2989a40c-e575-4035-af42-4b831f34395e" />
+  <Project Path="Voroshnin_Lib/Voroshnin.Lib.csproj" Id="eb012e71-a2c1-4689-bf3b-84211d696b58" />
+</Solution>
